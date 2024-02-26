@@ -1,7 +1,7 @@
 # MotionPredict-GuidanceReg
 Official implementation of our IJCNN 2024 paper:
 
-Enhancing Human Motion Prediction with Guidance Regularization via Fusion Feature Distillation
+Forecasting Distillation: Enhancing 3D Human Motion Prediction with Guidance Regularization
 
 The rest of the code will be released!
 
